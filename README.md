@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & Data Science projects with a focus on space applications<br>👯 I’m looking to collaborate on space-tech, robotics, and computer vision projects<br>🤝 I’m looking for help with advanced machine learning and aerospace fundamentals<br>🌱 I’m currently learning Artificial Intelligence, Data Analysis, and Space Technology<br>💬 Ask me about AI, space exploration, or building practical tech projects<br>⚡ Fun fact: My long-term goal is to contribute to a real space mission 🚀
+🔭 I’m currently working on AI & Data Science projects with a focus on space applications<br> I’m looking to collaborate on space-tech, robotics, and computer vision projects<br> I’m looking for help with advanced machine learning and aerospace fundamentals<br> I’m currently learning Artificial Intelligence, Data Analysis, and Space Technology<br>💬 Ask me about AI, space exploration, or building practical tech projects<br>⚡ Fun fact: My long-term goal is to contribute to a real space mission 🚀
 
 
 ## 🌐 Socials:
